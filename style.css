@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2020/09/30/17/21/framework-5616501_1280.png");
+    background-position:center;
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+#canvas{
+    
+    margin-top:20px;
+    
+}
